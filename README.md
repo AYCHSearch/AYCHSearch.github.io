@@ -1,7 +1,10 @@
-# web-search-engine
+# AYCHSearch
+A simple web site search engine over Api. Easy to use with elastic database.
+
+## LICENSE
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)
 
-API - a simple web search engine.
+## Purpose
 The goal is to index an infinite list of URLs (web pages), and then be able to quickly search relevant URLs against a query. This engine uses the ElasticSearch database.
 
 ### Indexing
