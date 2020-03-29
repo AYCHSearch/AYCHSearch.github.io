@@ -2,7 +2,7 @@
 A simple web site search engine over Api. Easy to use with elastic database.
 
 ## LICENSE
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/) ![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)
 
 ## Purpose
 The goal is to index an infinite list of URLs (web pages), and then be able to quickly search relevant URLs against a query. This engine uses the ElasticSearch database.
@@ -32,7 +32,7 @@ This tool requires *Python3+* and *ElasticSearch5+*.
 
 ### WITH PIP
 ```
-git clone https://github.com/AnthonySigogne/web-search-engine.git
+git clone https://github.com/aychsearch/aychsearch.github.io/
 cd web-search-engine
 pip install -r requirements.txt
 ```
